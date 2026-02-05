@@ -86,47 +86,44 @@ This application allows users to:
 - Card-based UI design
 - Badge notifications on cart icon
 
-##  Screenshots
+## 📸 Screenshots
 
-### Light Theme
+### 🌞 Light Theme
 
-<table>
-  <tr>
-    <td><img src="screenshots/light/auth_light.jpeg" width="250"/><br/><b>Login Screen</b></td>
-    <td><img src="screenshots/light/home_light.jpeg" width="250"/><br/><b>Products Home</b></td>
-    <td><img src="screenshots/light/product_detail_light.jpeg" width="250"/><br/><b>Product Details</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/light/cart_light.jpeg" width="250"/><br/><b>Shopping Cart</b></td>
-    <td><img src="screenshots/light/cart_empty.jpeg" width="250"/><br/><b>Empty Cart</b></td>
-    <td><img src="screenshots/light/profile_light.jpeg" width="250"/><br/><b>User Profile</b></td>
-  </tr>
-</table>
+![Login](./screenshots/light/auth_light.jpeg)
+![Home](./screenshots/light/home_light.jpeg)
+![Product Detail](./screenshots/light/product_detail_light.jpeg)
+![Cart](./screenshots/light/cart_light.jpeg)
+![Empty Cart](./screenshots/light/cart_empty.jpeg)
+![Profile](./screenshots/light/profile_light.jpeg)
+![Validation](./screenshots/light/auth_validate.jpeg)
+![Internet Error](./screenshots/light/internet_handling.jpeg)
+![Logout](./screenshots/light/logout_confirm.jpeg)
 
-### Dark Theme
+## 📸 Screenshots
 
-<table>
-  <tr>
-    <td><img src="screenshots/dark/auth_dark.jpeg" width="250"/><br/><b>Login Dark</b></td>
-    <td><img src="screenshots/dark/home_dark.jpeg" width="250"/><br/><b>Products Dark</b></td>
-    <td><img src="screenshots/dark/product_detail_dark.jpeg" width="250"/><br/><b>Details Dark</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/dark/cart_dark.jpeg" width="250"/><br/><b>Cart Dark</b></td>
-    <td><img src="screenshots/dark/profile_dark.jpeg" width="250"/><br/><b>Profile Dark</b></td>
-    <td></td>
-  </tr>
-</table>
+### 🌞 Light Theme
 
-### Additional Features
+![Login](./screenshots/light/auth_light.jpeg)
+![Home](./screenshots/light/home_light.jpeg)
+![Product Detail](./screenshots/light/product_detail_light.jpeg)
+![Cart](./screenshots/light/cart_light.jpeg)
+![Empty Cart](./screenshots/light/cart_empty.jpeg)
+![Profile](./screenshots/light/profile_light.jpeg)
+![Validation](./screenshots/light/auth_validate.jpeg)
+![Internet Error](./screenshots/light/internet_handling.jpeg)
+![Logout](./screenshots/light/logout_confirm.jpeg)
 
-<table>
-  <tr>
-    <td><img src="screenshots/light/auth_validate.jpeg" width="250"/><br/><b>Form Validation</b></td>
-    <td><img src="screenshots/light/internet_handling.jpeg" width="250"/><br/><b>Error Handling</b></td>
-    <td><img src="screenshots/light/logout_confirm.jpeg" width="250"/><br/><b>Logout Confirmation</b></td>
-  </tr>
-</table>
+---
+
+### 🌙 Dark Theme
+
+![Login Dark](./screenshots/dark/auth_dark.jpeg)
+![Home Dark](./screenshots/dark/home_dark.jpeg)
+![Detail Dark](./screenshots/dark/product_detail_dark.jpeg)
+![Cart Dark](./screenshots/dark/cart_dark.jpeg)
+![Profile Dark](./screenshots/dark/profile_dark.jpeg)
+
 
 
 ## ▶ How to Run the App
