@@ -1,8 +1,12 @@
 # e_comm_app
 
-A Flutter e-commerce project built using Flutter and GetX.
+A new Flutter project.
 
----
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
 
 # 🛒 Flutter E-Commerce App (GetX)
 
@@ -16,7 +20,7 @@ e-commerce workflow.
 ## 📱 App Overview
 
 This application allows users to:
-- Log in using demo credentials (username: **mor_2314**, password: **83r5^_**)
+- Log in using demo credentials (username: mor_2314 password: 83r5^_)
 - Browse and search products
 - View product details
 - Add products to a shopping cart
@@ -26,16 +30,16 @@ This application allows users to:
 
 ---
 
-## ✅ Features Working
+##  Features Working
 
-### 🔐 Authentication
+###  Authentication
 - Login with username & password
 - Form validation (required fields)
 - Error handling on invalid login
 - Logout functionality
 - Session handling using controllers
 
-### 🛍️ Product Listing
+###  Product Listing
 - Fetch products from API
 - Grid layout (2 columns)
 - Pull-to-refresh
@@ -44,14 +48,14 @@ This application allows users to:
 - Loading & error states
 - Offline handling UI
 
-### 📦 Product Detail Screen
+###  Product Detail Screen
 - Full product image
 - Title, price, category
 - Rating & review count
 - Product description
 - Add to cart button
 
-### 🛒 Cart Management
+###  Cart Management
 - Add items to cart
 - Increase / decrease quantity
 - Remove items from cart
@@ -59,16 +63,14 @@ This application allows users to:
 - Empty cart state
 - Cart badge showing item count on bottom navigation
 
-### 👤 Profile Screen
+###  Profile Screen
 - Display user information
 - Avatar with initials
 - Logout option
 
-### 🎨 Theme Management
+###  Theme Management
 - Light & Dark mode support
 - Adaptive UI based on theme
-
----
 
 ## 🎨 UI/UX Features
 
@@ -84,39 +86,52 @@ This application allows users to:
 - Card-based UI design
 - Badge notifications on cart icon
 
----
+##  Screenshots
 
-## 📸 Screenshots
+### Light Theme
 
-### 🌞 Light Theme
+<table>
+  <tr>
+    <td><img src="screenshots/light/auth_light.jpeg" width="250"/><br/><b>Login Screen</b></td>
+    <td><img src="screenshots/light/home_light.jpeg" width="250"/><br/><b>Products Home</b></td>
+    <td><img src="screenshots/light/product_detail_light.jpeg" width="250"/><br/><b>Product Details</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/light/cart_light.jpeg" width="250"/><br/><b>Shopping Cart</b></td>
+    <td><img src="screenshots/light/cart_empty.jpeg" width="250"/><br/><b>Empty Cart</b></td>
+    <td><img src="screenshots/light/profile_light.jpeg" width="250"/><br/><b>User Profile</b></td>
+  </tr>
+</table>
 
-| Login | Home | Product Detail |
-|------|------|---------------|
-| ![](screenshots/light/auth_light.jpeg) | ![](screenshots/light/home_light.jpeg) | ![](screenshots/light/product_detail_light.jpeg) |
+### Dark Theme
 
-| Cart | Empty Cart | Profile |
-|------|-----------|---------|
-| ![](screenshots/light/cart_light.jpeg) | ![](screenshots/light/cart_empty.jpeg) | ![](screenshots/light/profile_light.jpeg) |
+<table>
+  <tr>
+    <td><img src="screenshots/dark/auth_dark.jpeg" width="250"/><br/><b>Login Dark</b></td>
+    <td><img src="screenshots/dark/home_dark.jpeg" width="250"/><br/><b>Products Dark</b></td>
+    <td><img src="screenshots/dark/product_detail_dark.jpeg" width="250"/><br/><b>Details Dark</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/dark/cart_dark.jpeg" width="250"/><br/><b>Cart Dark</b></td>
+    <td><img src="screenshots/dark/profile_dark.jpeg" width="250"/><br/><b>Profile Dark</b></td>
+    <td></td>
+  </tr>
+</table>
 
-| Validation | Error Handling | Logout |
-|------------|---------------|--------|
-| ![](screenshots/light/auth_validate.jpeg) | ![](screenshots/light/internet_handling.jpeg) | ![](screenshots/light/logout_confirm.jpeg) |
+### Additional Features
 
----
+<table>
+  <tr>
+    <td><img src="screenshots/light/auth_validate.jpeg" width="250"/><br/><b>Form Validation</b></td>
+    <td><img src="screenshots/light/internet_handling.jpeg" width="250"/><br/><b>Error Handling</b></td>
+    <td><img src="screenshots/light/logout_confirm.jpeg" width="250"/><br/><b>Logout Confirmation</b></td>
+  </tr>
+</table>
 
-### 🌙 Dark Theme
-
-| Login | Home | Product Detail |
-|------|------|---------------|
-| ![](screenshots/dark/auth_dark.jpeg) | ![](screenshots/dark/home_dark.jpeg) | ![](screenshots/dark/product_detail_dark.jpeg) |
-
-| Cart | Profile |
-|------|---------|
-| ![](screenshots/dark/cart_dark.jpeg) | ![](screenshots/dark/profile_dark.jpeg) |
-
----
 
 ## ▶ How to Run the App
+
+Follow the steps below to run the project locally:
 
 ### 🔹 Prerequisites
 - Flutter SDK (latest stable)
@@ -131,3 +146,4 @@ git clone https://github.com/izharbadshah/flutter_ecommerce_app.git
 cd flutter_ecommerce_app
 flutter pub get
 flutter run
+
