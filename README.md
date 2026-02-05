@@ -99,6 +99,10 @@ This application allows users to:
 ![Validation](./screenshots/light/auth_validate.jpeg)
 ![Internet Error](./screenshots/light/internet_handling.jpeg)
 ![Logout](./screenshots/light/logout_confirm.jpeg)
+![AppExit](./screenshots/light/app_exit.jpeg)
+![checkOrderProcess](./screenshots/light/check_order_process.jpeg)
+![orderSuccess](./screenshots/light/order_success.jpeg)
+![placeOrder](./screenshots/light/place_order.jpeg)
 
 ---
 
