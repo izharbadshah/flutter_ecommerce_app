@@ -100,20 +100,6 @@ This application allows users to:
 ![Internet Error](./screenshots/light/internet_handling.jpeg)
 ![Logout](./screenshots/light/logout_confirm.jpeg)
 
-## 📸 Screenshots
-
-### 🌞 Light Theme
-
-![Login](./screenshots/light/auth_light.jpeg)
-![Home](./screenshots/light/home_light.jpeg)
-![Product Detail](./screenshots/light/product_detail_light.jpeg)
-![Cart](./screenshots/light/cart_light.jpeg)
-![Empty Cart](./screenshots/light/cart_empty.jpeg)
-![Profile](./screenshots/light/profile_light.jpeg)
-![Validation](./screenshots/light/auth_validate.jpeg)
-![Internet Error](./screenshots/light/internet_handling.jpeg)
-![Logout](./screenshots/light/logout_confirm.jpeg)
-
 ---
 
 ### 🌙 Dark Theme
